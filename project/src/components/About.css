@@ -1,0 +1,12 @@
+.hover{
+    width:150px;
+    margin-bottom: 80%;
+}
+.hover:hover{
+    background-image: url(src\assets\bullet.svg);
+    transition: background-image 0.3s;
+}
+.tea{
+    width:150px;
+    margin-top: 10%;
+}
