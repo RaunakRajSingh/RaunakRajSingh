@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaunakRajSingh
+- 👋 Hi, I’m @Raunak
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning react.js and node.js
 - 💞️ I’m looking to collaborate on ...
