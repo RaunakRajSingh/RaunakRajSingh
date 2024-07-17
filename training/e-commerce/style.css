@@ -87,7 +87,7 @@ button {
     border-color: var(--pink)!important ;
 }
 #header{
-    background: url(../images/banner-img-1.jpg) top/cover no-repeat;
+    background: url("images/banner-img-1.jpg") top/cover no-repeat;
     
 }
 .carousel-inner h1{
